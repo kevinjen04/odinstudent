@@ -1,0 +1,13 @@
+body{
+    background-color: aqua;
+}
+h1{
+    font-style: italic;
+    padding-left: 250px;
+}
+main{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+    padding-left: 250px;
+    border-top-width: 50cap;
+}
